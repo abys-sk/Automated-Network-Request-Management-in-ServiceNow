@@ -4,7 +4,7 @@
 
 ### Tasks Completed:
 1. **Created a custom table**:  
-   - Table Label: Network Database Table  
+   - Table Label: Network Database Table   
    - Table Name: u_network_database_table  
    - Application: Global  
 
@@ -60,3 +60,4 @@ Screenshots have been uploaded to `/screenshots/module2/`:
 ---
 
 ✅ **Module 2 (Table, Field & Related List Creation) completed successfully.**
+

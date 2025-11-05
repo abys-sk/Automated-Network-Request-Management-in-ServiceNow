@@ -2,7 +2,7 @@
 
 ## Module Completed: Service Catalog Creation
 
-### Tasks Completed:
+### Tasks Completed: 
 - Created a **Service Catalog Item** → *Network Request*
 - Configured **Variables** for the catalog item:
   - Text fields (Address, Additional Information, etc.)
@@ -29,3 +29,4 @@
 
 ---
 ✅ Module 1 (Service Catalog Creation) completed successfully.
+

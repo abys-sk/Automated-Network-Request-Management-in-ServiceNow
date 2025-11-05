@@ -2,7 +2,7 @@
 <sys_remote_update_set action="INSERT_OR_UPDATE">
 <application display_value="Global">global</application>
 <application_name>Global</application_name>
-<application_scope>global</application_scope>
+<application_scope>global</application_scope> 
 <application_version/>
 <collisions/>
 <commit_date/>
@@ -994,3 +994,4 @@
 <view/>
 </sys_update_xml>
 </unload>
+

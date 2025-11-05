@@ -4,7 +4,7 @@
 Day 3 was focused on automating the Network Request process using ServiceNow Flow Designer. The goal was to integrate the catalog item, variable sets, custom table, and approval mechanism into a seamless workflow.
 
 🔧 Work Completed
-1. Catalog Variables Integration
+1. Catalog Variables Integration 
 
 Configured the Get Catalog Variables action to capture all required inputs from the Network Request catalog item:
 
@@ -95,3 +95,4 @@ Approval process
 Record updates post-approval
 
 Flow tested successfully without critical errors.
+
